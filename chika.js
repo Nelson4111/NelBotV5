@@ -1652,7 +1652,7 @@ case 'cekganteng':
 				    if (!q) return reply(`Penggunaan ${command} Nama\n\nContoh : ${command} Nelson`)
 					const gan = ['5', '10', '15' ,'20', '25','30','35','40','45','50','55','60','65','70','75','80','85','90','100']
 					const teng = gan[Math.floor(Math.random() * gan.length)]
-                    chika.sendMessage(from, { text: `╭─「 *Semoga Beruntung* 」\n│\n│Nama : ${q}\n│\n│Jawaban : *${teng}%*\n╰────\n\n AzzBot }, { quoted: m })
+                    chika.sendMessage(from, { text: `╭─「 *Semoga Beruntung* 」\n│\n│Nama : ${q}\n│\n│Jawaban : *${teng}%*\n╰────\n\n AzzBot` }, { quoted: m })
 					break
 
 case 'cantikcek':
