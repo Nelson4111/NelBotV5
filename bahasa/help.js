@@ -163,7 +163,7 @@ return`
 ├ ${prefix}nekochan
 ├ ${prefix}meguminn
 ├ ${prefix}apk
-├ ${prefix}neko
+├ ${prefix}nekoo
 ├ ${prefix}shinobu
 ├ ${prefix}waifus (nsfw)
 ├ ${prefix}nekos (nsfw)
